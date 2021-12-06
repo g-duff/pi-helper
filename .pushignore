@@ -1,5 +1,5 @@
 # Config files
-.push_exclude
+.pushignore
 pi.config
 
 # Helper scripts
