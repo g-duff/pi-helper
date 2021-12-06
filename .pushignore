@@ -4,3 +4,4 @@ pi.config
 
 # Helper scripts
 push_to_pi
+run_on_pi
