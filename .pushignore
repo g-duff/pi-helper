@@ -1,5 +1,11 @@
+# Default project files and folders
+README.md
+LICENSE
+.git
+.vscode
+
 # Config files
-.push_exclude
+.pushignore
 pi.config
 
 # Helper scripts
