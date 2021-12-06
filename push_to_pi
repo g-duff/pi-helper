@@ -2,5 +2,6 @@
 . ./pi.config
 
 rsync -avzP \
+    --exclude-from=.pushignore \
     ./ \
     pi@$ipaddr:$working_dir

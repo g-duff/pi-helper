@@ -1,0 +1,6 @@
+# Config files
+.push_exclude
+pi.config
+
+# Helper scripts
+push_to_pi
