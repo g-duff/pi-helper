@@ -10,4 +10,5 @@ pi.config
 
 # Helper scripts
 push_to_pi
+pull_from_pi
 run_on_pi
