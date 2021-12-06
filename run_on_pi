@@ -1,0 +1,4 @@
+#!/bin/bash
+. ./pi.config
+
+ssh pi@$ipaddr $working_dir/$1
