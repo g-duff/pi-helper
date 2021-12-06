@@ -1,0 +1,6 @@
+#!/bin/bash
+. ./pi.config
+
+rsync -avzP \
+    ./ \
+    pi@$ipaddr:$working_dir
